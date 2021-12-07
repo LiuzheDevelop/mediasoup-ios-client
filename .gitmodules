@@ -1,0 +1,7 @@
+[submodule "mediasoup-client-ios/dependencies/libmediasoupclient"]
+	path = mediasoup-client-ios/dependencies/libmediasoupclient
+	url = https://github.com.cnpmjs.org/ethand91/libmediasoupclient.git
+[submodule "mediasoup-client-ios/dependencies/webrtc/src"]
+	path = mediasoup-client-ios/dependencies/webrtc/src
+	url = https://github.com.cnpmjs.org/ethand91/webrtc-mac-src.git
+  branch = m79
